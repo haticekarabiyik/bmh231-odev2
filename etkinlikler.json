@@ -1,0 +1,52 @@
+
+
+[
+  {
+    "id": 1,
+    "baslik": "Web Programlama Atölyesi",
+    "tur": "atolye",
+    "tarih": "2026-11-10",
+    "yer": "Bilgisayar Laboratuvarı",
+    "kontenjan": 30
+  },
+  {
+    "id": 2,
+    "baslik": "Yapay Zekâ Söyleşisi",
+    "tur": "soylesi",
+    "tarih": "2026-11-12",
+    "yer": "Konferans Salonu",
+    "kontenjan": 100
+  },
+  {
+    "id": 3,
+    "baslik": "Yazılım Topluluğu Buluşması",
+    "tur": "topluluk",
+    "tarih": "2026-11-15",
+    "yer": "Öğrenci Merkezi",
+    "kontenjan": 50
+  },
+  {
+    "id": 4,
+    "baslik": "Python Programlama Atölyesi",
+    "tur": "atolye",
+    "tarih": "2026-11-20",
+    "yer": "Bilgisayar Laboratuvarı",
+    "kontenjan": 25
+  },
+  {
+    "id": 5,
+    "baslik": "Siber Güvenlik Söyleşisi",
+    "tur": "soylesi",
+    "tarih": "2026-11-25",
+    "yer": "Konferans Salonu",
+    "kontenjan": 80
+  },
+  {
+    "id": 6,
+    "baslik": "Teknoloji Topluluğu Buluşması",
+    "tur": "topluluk",
+    "tarih": "2026-12-05",
+    "yer": "Öğrenci Merkezi",
+    "kontenjan": 60
+  }
+]
