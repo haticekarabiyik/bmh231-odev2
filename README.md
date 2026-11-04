@@ -16,9 +16,13 @@ Bu proje, BMH231 Web Programlama dersi kapsamında hazırlanan Kampüs Etkinlik 
 
 ## Projeyi Çalıştırma
 
-1. Proje klasörünü VS Code ile açın.
-2. Terminalde `node sunucu.js` komutunu çalıştırın.
-3. Tarayıcıdan `http://localhost:3000` adresine gidin.
+git clone https://github.com/haticekarabiyik/bmh231-odev2.git
+
+Projeyi başlatmak için `npm.cmd start` komutunu kullanabilirsiniz
+
+
+
+
 
 ## Özellikler
 
